@@ -1,0 +1,14 @@
+{
+    "name": "name-sorter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Helena Natanael",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^24.8.0"
+    }
+}
