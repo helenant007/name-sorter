@@ -10,6 +10,6 @@
     "author": "Helena Natanael",
     "license": "ISC",
     "devDependencies": {
-        "jest": "^24.8.0"
+        "jest": "^29.5.0"
     }
 }
